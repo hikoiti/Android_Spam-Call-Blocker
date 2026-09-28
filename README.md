@@ -1,4 +1,4 @@
-# Android_Spam-Call-Blocker
+# Android　迷惑電話ブロッカー
 
 このアプリは、Androidで使用することのできる、迷惑電話撃退アプリです。
 
