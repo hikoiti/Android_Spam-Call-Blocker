@@ -30,7 +30,7 @@ This program (spam call blocker) uses the following permissions to improve its f
 * **Access to Call History**: Necessary to allow or block calls from the call history.
 
 ### Regarding Data Handling
-All acquired contact data and call history are **processed only on the user's device (locally).** They are never sent to or collected by external servers.**
+All acquired contact data and call history are **processed only on the user's device (locally).** They are never sent to or collected by external servers. **
 
 If you discover any security vulnerabilities or concerns about data leakage in this program, please do not post on public Issues, but contact us privately at the following address:
 
