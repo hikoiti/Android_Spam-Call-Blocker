@@ -1,4 +1,4 @@
-Japanese　日本語
+* Japanese　日本語
 
 # セキュリティポリシー
 
@@ -19,7 +19,7 @@ Japanese　日本語
 また、セキュリティ面以外での不具合などがありましたら、Issuesにお書きください。
 
 
-English　英語
+* English　英語
 
 # Security Policy
 
